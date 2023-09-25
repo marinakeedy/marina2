@@ -1,0 +1,7 @@
+requirments
+
+
+
+pandas 
+plotly.express 
+streamlit 
