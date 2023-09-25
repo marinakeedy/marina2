@@ -10,7 +10,7 @@ import plotly.express as px
 import streamlit as st
 
 # Load the data
-df = pd.read_csv(r"https://raw.githubusercontent.com/marinakeedy/marina2/main/Global%2BSales%2BData.csv", encoding='utf-8')
+df = pd.read_csv(r"C:\Users\marin\Downloads\archive (2)\US_Regional_Sales_Data.csv", encoding='utf-8')
 
 # Create a Streamlit app
 #give a title to my web page 
