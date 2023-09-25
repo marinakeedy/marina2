@@ -1,7 +1,4 @@
-requirments
-
-
 
 pandas 
-plotly.express 
+plotly
 streamlit 
