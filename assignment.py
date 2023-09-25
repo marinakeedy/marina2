@@ -6,7 +6,7 @@ Created on Mon Sep 25 18:03:08 2023
 """
 
 import pandas as pd
-import plotly.express as px
+import plotly as px
 import streamlit as st
 
 # Load the data
